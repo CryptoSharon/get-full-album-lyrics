@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "node-spotify-api": "^1.1.1",
+    "solenolyrics": "^5.0.0"
+  },
+  "name": "get-full-album-lyrics",
+  "version": "1.0.0",
+  "description": "Download the lyrics for all the songs in an album",
+  "main": "index.js",
+  "repository": "https://github.com/CryptoSharon/get-full-album-lyrics.git",
+  "license": "MIT",
+  "private": false
+}
