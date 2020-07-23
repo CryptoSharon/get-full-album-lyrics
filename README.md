@@ -1,3 +1,5 @@
+[NPM url](https://www.npmjs.com/package/get-full-album-lyrics)
+
 # Download the lyrics for all the songs in an album
 
 This script uses Spotify API (with the following wrapper: [node-spotify-api](https://www.npmjs.com/package/node-spotify-api)), so you will need to fill out `config.json` with your app ID and app Secret.
